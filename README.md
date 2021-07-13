@@ -2,8 +2,8 @@
 <head>
 <title> Video</title>
 <style>
-html{text-align:center;}
+a{text-align:center;font-family: 'Pacifico', cursive; font-size:30px;}
 </style> </head>
 <body>
-  <iframe width="853" height="480" src="https://www.youtube.com/watch?v=V2uEfVU5o2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
- <iframe width="853" height="480" src="https://www.youtube.com/watch?v=yzMoVPw9oQo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ <a href="https://www.youtube.com/watch?v=V2uEfVU5o2s"> Part 1 Video<br><br>
+   <a href="https://www.youtube.com/watch?v=yzMoVPw9oQo"> Part 2 Video
